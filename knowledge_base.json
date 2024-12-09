@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello :)"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I am bot, it's nice to meet you! What is your name?"
+    },
+    {
+      "question": "My name is Nathan",
+      "answer": "Hello Nathan! It's nice to meet you!"
+    },
+    {
+      "question": "Kharina",
+      "answer": "Hello Kharina what a unique name you have! It's lovely to meet you Kharina."
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're welcome"
+    },
+    {
+      "question": "Favourite food?",
+      "answer": "I love Greek salad how about you?"
+    },
+    {
+      "question": "what's your favourite food?",
+      "answer": "I love a greek salad how about you?"
+    },
+    {
+      "question": "Apples",
+      "answer": "That's wonderful! Apples are delicious, versatile, and nutritious. Whether you like them fresh, baked into a pie, made into cider, or even in a salad, there's an apple variety for every taste."
+    },
+    {
+      "question": "I love apples",
+      "answer": "That's wonderful! Apples are delicious, versatile, and nutritious. Whether you like them fresh, baked into a pie, made into cider, or even in a salad, there's an apple variety for every taste."
+    },
+    {
+      "question": "Hi my name is Kharina",
+      "answer": "Kharina what a lovely name, it's nice to meet you!"
+    }
+  ]
+}
